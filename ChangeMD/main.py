@@ -61,7 +61,7 @@ def html_to_md(html_path, output_dir=None):
 
 
 if __name__ == "__main__":
-    hwp_file = r"C:\Users\ch901\PycharmProjects\ChangeMD\강원대학교 대학원 학사운영규정.hwp"
+    hwp_file = r"C:\Users\ideadesignlab\PycharmProjects\PythonProject\KNUrulesDB\ChangeMD\강원대학교 교육공무원 공무국외출장 등에 관한 규정.hwp"
 
     # 1. HWP → UTF-8 HTML
     html_utf8 = hwp_to_html_utf8(hwp_file)
