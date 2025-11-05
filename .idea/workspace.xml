@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc8cadd-34b7-4de7-9cbe-ae49dd46593b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KNUrulesDB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/converter/hwp_to_pdf_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crawler/crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/htmldown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json/jsoncompare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json/jsonmaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json/jsonupdater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json/rules_parsed_structured_2025-10-28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/ch901/PycharmProjects/KNUrulesDB/src/json"
   }
 }]]></component>
